@@ -1,0 +1,2 @@
+catvehicle:obstaclestopper:sicktoolbox
+-DCATKIN_DEVEL_PREFIX=/home/light/catvehicle_ws/devel -DCMAKE_INSTALL_PREFIX=/home/light/catvehicle_ws/install -G Unix Makefiles
